@@ -1,3 +1,3 @@
 #!/bin/sh
 
-psql -h localhost -U yiifilmafinitty -d yiifilmafinitty
+psql -h localhost -U fa -d fa
